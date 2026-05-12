@@ -111,6 +111,6 @@ npm start
 </p>
 
 * 👨‍💻 **Developer:** [Message on Telegram](https://t.me/cortabortz)
-* 💬 **Telegram Group:** [Join Here](https://t.me/cortanalogins)
+* 💬 **Telegram Group:** [Join Here](https://t.me/cortanatech)
 * 📺 **WhatsApp Channel:** [Follow Here](https://whatsapp.com/channel/0029VbBYFdCE50Uoh5O7Jy2j)
 
