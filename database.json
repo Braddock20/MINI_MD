@@ -1,0 +1,23 @@
+{
+  "currentId": 1,
+  "users": [],
+  "sessions": [],
+  "botSettings": [
+    [
+      "1",
+      {
+        "sessionId": "34618a11-0701-49fa-b58d-6afa1939cea0",
+        "isPublic": true,
+        "prefix": "/data/data/com.termux/files/usr",
+        "ownerNumber": "254736147257",
+        "id": "1",
+        "createdAt": "2026-03-07T21:32:57.158Z",
+        "updatedAt": "2026-03-07T21:35:18.822Z",
+        "_cachedAt": 1772919318817,
+        "autostatusView": true
+      }
+    ]
+  ],
+  "groupSettings": [],
+  "economyUsers": []
+}
